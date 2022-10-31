@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentations", "Documentations", "{8748C2A0-DBBE-4612-8E41-8F552687E461}"
 	ProjectSection(SolutionItems) = preProject
 		CREDITS.txt = CREDITS.txt
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global

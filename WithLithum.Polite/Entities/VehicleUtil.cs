@@ -7,8 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// Provides extensions methods for vehicles.
+/// </summary>
 public static class VehicleUtil
 {
+    /// <summary>
+    /// Randomises the <see cref="Vehicle.LicensePlate"/> property of this instance.
+    /// </summary>
+    /// <param name="vehicle">The vehicle to randomise.</param>
     public static void RandomiseNumberPlate(this Vehicle vehicle)
     {
         // San andreas number plate is formatted like 
