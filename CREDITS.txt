@@ -1,0 +1,9 @@
+WithLithum.Polite
+Copyright (C) WithLithum 2022.
+Licensed under GNU Lesser General Public License 3.0 (or any later version).
+
+-------------------------------------------------------------------------------
+LSPD First Response
+Copyright (C) G17 Media & contributors. All rights reserved.
+
+-------------------------------------------------------------------------------
